@@ -1,0 +1,4 @@
+conf_layout:
+  lconfig_indentPolicy: IndentPolicyLeft
+  lconfig_indentAmount: 4
+  lconfig_hangingTypeSignature: true
